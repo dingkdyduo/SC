@@ -3,7 +3,6 @@
 2. goto folder SC and run "nmp install"
 3. run the file readAndSave.js "node readAndSave.js"
 
-TO the DB
 **to view DB:** 
 1. mongosh "mongodb+srv://cluster0.dm5nudf.mongodb.net/" --apiVersion 1 --username dingkyduo --password ddgg120282DD
 
