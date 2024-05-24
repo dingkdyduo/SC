@@ -8,7 +8,7 @@ import json  from 'big-json';
 await cloneIt();
  
 
-let file = "ransomware_overview.json"
+let file = "jsonFiles/ransomware_overview.json"
 const readStream = fs.createReadStream(file);
 const parseStream = json.createParseStream();
 
